@@ -1,0 +1,37 @@
+.wrapper {
+    margin: 50px auto;
+    width: 500px;
+}
+
+.wrapper > img {
+    width: 100%;
+}
+
+.word {
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.user_input {
+    text-align: center;
+    margin: 20px;
+}
+
+.user_input > input {
+    font-size: 30px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 100px;
+}
+
+
+.word_span {
+    padding: 5px;
+    margin: 5px;
+}
